@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# OS
+.DS_Store
+
+# Large Data (Keep text/csv, ignore PDF)
+data/pdf/
+*.pdf
+
+# Logs
+logs/
+
+# Temporary
+matthews_snippet.txt
+matthews_start.txt
