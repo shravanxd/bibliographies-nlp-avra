@@ -19,3 +19,4 @@ logs/
 # Temporary
 matthews_snippet.txt
 matthews_start.txt
+*.log
